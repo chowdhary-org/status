@@ -11,9 +11,11 @@ This repository contains the open-source uptime monitor and status page for [Cho
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/chowdhary-org/status/issues) as incident reports, [Actions](https://github.com/chowdhary-org/status/actions) as uptime monitors, and [Pages](https://chowdhary-org.github.io/status/) for the status page.
 
 <!--start: status pages-->
-| URL | Status | History | Response Time | Uptime |
-| --- | ------ | ------- | ------------- | ------ |
-| [Chowdhary.org](https://chowdhary.org) | 🟩 Up | [chowdhary-org.yml](https://github.com/chowdhary-org/status/commits/master/history/chowdhary-org.yml) | <img alt="Response time graph" src="./graphs/chowdhary-org.png" height="20"> 143ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fchowdhary-org%2Fstatus%2Fmaster%2Fapi%2Fchowdhary-org%2Fuptime.json)
+
+| URL                                    | Status | History                                                                                               | Response Time                                                                      | Uptime                                                                                                                                                               |
+| -------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Chowdhary.org](https://chowdhary.org) | 🟩 Up  | [chowdhary-org.yml](https://github.com/chowdhary-org/status/commits/master/history/chowdhary-org.yml) | <img alt="Response time graph" src="./graphs/chowdhary-org.png" height="20"> 138ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fchowdhary-org%2Fstatus%2Fmaster%2Fapi%2Fchowdhary-org%2Fuptime.json) |
+
 <!--end: status pages-->
 
 [**Visit our status website →**](https://chowdhary-org.github.io/status/)
