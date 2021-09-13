@@ -4,7 +4,7 @@
     "url": "https://chowdhary.org",
     "icon": "https://favicons.githubusercontent.com/chowdhary.org",
     "slug": "chowdhary-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 206,
     "timeYear": 143,
     "dailyMinutesDown": {
+      "2021-09-13": 0,
       "2020-11-19": 7
     }
   }
