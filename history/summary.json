@@ -4,17 +4,19 @@
     "url": "https://chowdhary.org",
     "icon": "https://favicons.githubusercontent.com/chowdhary.org",
     "slug": "chowdhary-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 83,
-    "timeWeek": 162,
-    "timeMonth": 181,
-    "timeYear": 178,
-    "dailyMinutesDown": {}
+    "timeDay": 148,
+    "timeWeek": 169,
+    "timeMonth": 182,
+    "timeYear": 179,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
