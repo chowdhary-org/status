@@ -3,6 +3,8 @@ repo: status
 sites:
   - name: Chowdhary.org
     url: https://chowdhary.org
+  - name: Chowdhary.co
+    url: https://chowdhary.co
 assignees:
   - AnandChowdhary
 status-website:
