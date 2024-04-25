@@ -11,12 +11,30 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.95%",
     "time": 208,
-    "timeDay": 210,
-    "timeWeek": 227,
-    "timeMonth": 248,
+    "timeDay": 244,
+    "timeWeek": 238,
+    "timeMonth": 251,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2024-04-25": 254
     }
+  },
+  {
+    "name": "Chowdhary.co",
+    "url": "https://chowdhary.co",
+    "icon": "https://icons.duckduckgo.com/ip3/chowdhary.co.ico",
+    "slug": "chowdhary-co",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 292,
+    "timeDay": 292,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292,
+    "dailyMinutesDown": {}
   }
 ]
