@@ -4,18 +4,19 @@
     "url": "https://chowdhary.org",
     "icon": "https://icons.duckduckgo.com/ip3/chowdhary.org.ico",
     "slug": "chowdhary-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 210,
-    "timeDay": 236,
-    "timeWeek": 267,
-    "timeMonth": 233,
-    "timeYear": 217,
+    "time": 243,
+    "timeDay": 8610,
+    "timeWeek": 2356,
+    "timeMonth": 756,
+    "timeYear": 263,
     "dailyMinutesDown": {
+      "2024-06-13": 0,
       "2024-04-25": 254
     }
   },
@@ -24,17 +25,19 @@
     "url": "https://chowdhary.co",
     "icon": "https://icons.duckduckgo.com/ip3/chowdhary.co.ico",
     "slug": "chowdhary-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 60,
-    "timeWeek": 121,
-    "timeMonth": 123,
-    "timeYear": 118,
-    "dailyMinutesDown": {}
+    "time": 142,
+    "timeDay": 694,
+    "timeWeek": 272,
+    "timeMonth": 161,
+    "timeYear": 142,
+    "dailyMinutesDown": {
+      "2024-06-13": 0
+    }
   }
 ]
