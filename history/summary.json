@@ -24,18 +24,19 @@
     "url": "https://chowdhary.co",
     "icon": "https://icons.duckduckgo.com/ip3/chowdhary.co.ico",
     "slug": "chowdhary-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 169,
-    "timeWeek": 147,
-    "timeMonth": 132,
-    "timeYear": 137,
+    "time": 139,
+    "timeDay": 621,
+    "timeWeek": 263,
+    "timeMonth": 162,
+    "timeYear": 139,
     "dailyMinutesDown": {
+      "2025-05-03": 0,
       "2024-06-13": 15
     }
   }
