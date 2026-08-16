@@ -4,19 +4,19 @@
     "url": "https://chowdhary.org",
     "icon": "https://icons.duckduckgo.com/ip3/chowdhary.org.ico",
     "slug": "chowdhary-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 323,
-    "timeWeek": 291,
-    "timeMonth": 261,
+    "timeDay": 284,
+    "timeWeek": 285,
+    "timeMonth": 260,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2026-08-16": 0
+      "2026-08-16": 19
     }
   },
   {
